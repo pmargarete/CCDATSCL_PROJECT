@@ -1,0 +1,19 @@
+date,day_of_week,planning_streak,phase,task_number,is_backlog,backlog_id,task_description,expected_difficulty,expected_motivation,complete_or_not,reason_task_outcome,mood_before,mood_after
+12/08,Monday,8,3,1,Yes,B20,Deactivate both instagram and facebook for a week,4,4,Yes,Did it for a whole week. Restricted myself ,4,4
+12/08,Monday,8,3,2,No,,Delayed catch up with Ashley,3,5,Yes,"Schedule became best, we were both free",4,4
+12/08,Monday,8,3,3,No,,Visit relative at night,4,4,Yes,"Rare to visit an Ate but since it is holiday, might as well catch up",4,4
+12/09,Tuesday,9,3,1,No,,Continue Datacamp and Anki,3,5,Yes,"Even if the day was busy, I kept track",4,5
+12/09,Tuesday,9,3,2,No,,Finalize planning tracking,4,5,Yes,Checked my logs in Excel for discipline,4,5
+12/09,Tuesday,9,3,3,No,,Exercise: carry weights today,4,4,No,It was hard for me to go back weight lifting,4,5
+12/10,Wednesday,10,3,1,No,,2k Datacamp XP,3,4,Yes,A productive day still even if it got challenging,3,3
+12/10,Wednesday,10,3,2,No,,Data Input Task,3,4,Yes,My brother needed me for his PHD application,3,3
+12/10,Wednesday,10,3,3,No,,Avoid social media before going to bed,4,4,No,It was a hard resistance when it comes to social media sometimes,3,3
+12/11,Thursday,11,3,1,No,,Attend Paskong PH,4,4,Yes,"Since it fell on no classes, I was able to attend",3,3
+12/11,Thursday,11,3,2,No,,Continue Datacamp and Anki,3,4,Yes,Discipline check,3,3
+12/11,Thursday,11,3,3,No,,Read part of Outliers book,4,4,Yes,Was calming myself in exchange of reading a book,3,3
+12/12,Friday,12,3,1,No,,Meet with Mia and Jhe for ScOM Hangout,3,5,Yes,We did the hangout after almost 2 months of just online chats,2,4
+12/12,Friday,12,3,2,No,,Datacamp Usage 3k XP,4,4,No,It was hard to achieve this goal today,2,4
+12/12,Friday,12,3,3,Yes,B07,5 km run around UST,3,5,Yes,Got to go out and breathe,2,4
+12/13,Saturday,13,3,1,No,,Datacamp Usage 2k XP,4,5,No,Its hard to be productive on Datacamp recently,4,4
+12/13,Saturday,13,3,2,No,,Fill the blank spaces in ML data,3,4,No,Went out so not enough amount of time,4,4
+12/13,Saturday,13,3,3,No,,Data Input Task,3,4,Yes,Just some but not much,4,4
