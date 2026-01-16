@@ -1,0 +1,29 @@
+date,day_of_week,planning_streak,phase,task_number,is_backlog,backlog_id,task_description,expected_difficulty,expected_motivation,complete_or_not,reason_task_outcome,mood_before,mood_after
+28/12/2025,Sunday,28,4,1,No,,Major house cleaning,3,3,Yes,Brother made me help him,3,4
+28/12/2025,Sunday,28,4,2,No,,Grocery shopping,2,3,Yes,Breakfast food for the break,3,4
+28/12/2025,Sunday,28,4,3,No,,Do Sunday Service with family,3,3,Yes,We had Sunday Service as part of being uniquely together,3,4
+28/12/2025,Sunday,28,4,4,No,,House visitation and united praying,3,3,Yes,More on intimate prayers for the house and their family,3,4
+29/12/2025,Monday,29,4,1,No,,Exercise with brother in the morning,3,4,No,He did. I did not.,3,3
+29/12/2025,Monday,29,4,2,No,,Read 2 Chapters of Atomic Habits book,3,4,No,I missed,3,3
+29/12/2025,Monday,29,4,3,No,,Finish a Track in Datacamp,3,3,No,Did not finish because I had no enough time,3,3
+29/12/2025,Monday,29,4,4,No,,Visit cousins and bond with them,3,3,Yes,Catch up very well,3,3
+30/12/2025,Tuesday,0,,,,,,,,,,,
+30/12/2025,Tuesday,0,,,,,,,,,,,
+30/12/2025,Tuesday,0,,,,,,,,,,,
+30/12/2025,Tuesday,0,,,,,,,,,,,
+31/12/2025,Wednesday,1,4,1,No,,Assigned in decorations and invitations for New Year's Eve,4,4,Yes,Had a hard job preparing all,4,4
+31/12/2025,Wednesday,1,4,2,No,,Datacamp and Anki Progress,3,3,Yes,Input in time,4,4
+31/12/2025,Wednesday,1,4,3,No,,Hosting and gift preparation,3,3,Yes,"For the new year, it was accomplished",4,4
+31/12/2025,Wednesday,1,4,4,No,,Avoid social media much during the day,3,4,Yes,Was busy enough to check phone,4,4
+1/1/2026,Thursday,2,4,1,No,,Prepare red envelopes for relatives,3,3,Yes,New year to give blessings to other,4,4
+1/1/2026,Thursday,2,4,2,No,,San Juan agenda New Year meet,3,4,Yes,Traveled at their home and glad to meet relatives,4,4
+1/1/2026,Thursday,2,4,3,No,,Socialize and bond with cousins and titas,3,4,Yes,It was so refreshing ,4,4
+1/1/2026,Thursday,2,4,4,No,,Greet warm messages to people virtually,3,4,Yes,New Year thanks to people who's still with me this year,4,4
+2/1/2026,Friday,3,4,1,No,,Outside meet with HS friends,3,5,Yes,Excited to be with them,5,5
+2/1/2026,Friday,3,4,2,No,,Share the gospel to friends,4,5,No,Missed this,5,5
+2/1/2026,Friday,3,4,3,No,,Read part of book before going out,3,4,No,Was not able to read before all the agendas,5,5
+2/1/2026,Friday,3,4,4,No,,Do cleaning,3,3,Yes,For a better home,5,5
+3/1/2026,Saturday,4,4,1,No,,"Wake up early, cook and do chores",3,3,Yes,This is my responsibility,4,4
+3/1/2026,Saturday,4,4,2,No,,Prepare for cousins/nephews snacks,3,3,Yes,Prepared for them,4,4
+3/1/2026,Saturday,4,4,3,No,,Organize Zach and cousins' play activity,3,3,Yes,They played at home,4,4
+3/1/2026,Saturday,4,4,4,Yes,B09,Achieve a straight 90-day streak in Datacamp,5,5,Yes,One of the best achievements so far,4,4

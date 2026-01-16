@@ -1,0 +1,22 @@
+date,day_of_week,planning_streak,phase,task_number,is_backlog,backlog_id,task_description,expected_difficulty,expected_motivation,complete_or_not,reason_task_outcome,mood_before,mood_after
+21/12/2025,Sunday,21,3,1,Yes,B15,50-day no soft drinks,5,4,Yes,A little easy because of acidic stomach,4,4
+21/12/2025,Sunday,21,3,2,No,,Wrap up for going home,3,4,Yes,Prepared enough,4,4
+21/12/2025,Sunday,21,3,3,No,,Read part of book,3,4,Yes,Read the beginning part,4,4
+22/12/2025,Monday,22,3,1,No,,Early wake up for readiness,3,4,Yes,Early readiness,5,4
+22/12/2025,Monday,22,3,2,No,,Going back home ,2,5,Yes,Can't miss,5,4
+22/12/2025,Monday,22,3,3,No,,Share a gospel to person sitting beside me,3,4,No,Full-bus can't share,5,4
+23/12/2025,Tuesday,23,3,1,No,,Create messages for Christmas,4,5,Yes,Did for important people,4,4
+23/12/2025,Tuesday,23,3,2,No,,2K XP Datacamp,3,4,No,Didn't have time,4,4
+23/12/2025,Tuesday,23,3,3,No,,Prayer time with Family,3,4,Yes,Was able to end the night with prayer,4,4
+24/12/2025,Wednesday,24,3,1,No,,Wake up early for bus reservation ,3,4,Yes,Did it for Manila trip next year,4,4
+24/12/2025,Wednesday,24,3,2,No,,Cook two dishes for Noche Buena,4,4,Yes,Was able to cook two different pasta,4,4
+24/12/2025,Wednesday,24,3,3,No,,Initiate Bible study with family,4,4,Yes,Done as part of Christmas' spirit,4,4
+25/12/2025,Thursday,25,3,1,No,,Send heartfelt photo with messages online,4,4,Yes,Sent for important people,4,5
+25/12/2025,Thursday,25,3,2,No,,Help cousin for a house blessing,3,4,Yes,"A lot, including me, joined the blessing",4,5
+25/12/2025,Thursday,25,3,3,Yes,B17,No phone use for the first 3 hours after waking up for a month,4,4,Yes,Held back to checking phone,4,5
+26/12/2025,Friday,26,3,1,No,,Book reading and Datacamp progress,3,4,Yes,Tried to accomplish,4,4
+26/12/2025,Friday,26,3,2,Yes,B12,20-day Anki Track for 1 month,3,4,Yes,Finally 21/30,4,4
+26/12/2025,Friday,26,3,3,No,,Help cousin for caption making,3,4,Yes,Asked for help and I did,4,4
+27/12/2025,Saturday,27,3,1,No,,Decorate for house,3,3,Yes,Did improvements for house,4,5
+27/12/2025,Saturday,27,3,2,No,,Food preparation and do chores,3,3,Yes,I was the one taking care of older brothers' food,4,5
+27/12/2025,Saturday,27,3,3,No,,Mysterious movie night with brothers,2,3,Yes,We did movie time together,4,5

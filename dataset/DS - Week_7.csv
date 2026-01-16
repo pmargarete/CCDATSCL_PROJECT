@@ -1,0 +1,29 @@
+date,day_of_week,planning_streak,phase,task_number,is_backlog,backlog_id,task_description,expected_difficulty,expected_motivation,complete_or_not,reason_task_outcome,mood_before,mood_after
+4/1/2026,Sunday,5,4,1,No,,Breakfast meal preparation,3,3,Yes,Responsibility,3,2
+4/1/2026,Sunday,5,4,2,No,,Pack things for Manila trip,3,3,Yes,Final preparation,3,2
+4/1/2026,Sunday,5,4,3,No,,Progress of Anki and Datacamp,3,3,Yes,Still  got progress,3,2
+4/1/2026,Sunday,5,4,4,No,,No phone usage of more than 1 hour,4,4,Yes,No time to use phone much,3,2
+5/1/2026,Monday,6,4,1,No,,Disciple meet of brother,3,4,Yes,We were able to go with him,2,2
+5/1/2026,Monday,6,4,2,No,,Finalization before brother's flight,3,4,Yes,The final temporary separation happened  in Manila,2,2
+5/1/2026,Monday,6,4,3,No,,Quality time with siblings for the last time,3,4,Yes,Sadly it was enjoyed,2,2
+5/1/2026,Monday,6,4,4,No,,Follow limited screen time implementation,3,4,Yes,Social media screen time is being tracked again,2,2
+6/1/2026,Tuesday,7,4,1,No,,Read Atomic Habits book 10-15 pages,3,5,Yes,Grasped a lot. Good book,3,4
+6/1/2026,Tuesday,7,4,2,No,,Finalize data,3,4,No,Did not have time,3,4
+6/1/2026,Tuesday,7,4,3,No,,Intentional and long devotion time,4,5,Yes,"Before the night ends, it happened",3,4
+6/1/2026,Tuesday,7,4,4,No,,Go back to coding practice,3,5,No,Did not have time during the day,3,4
+7/1/2026,Wednesday,8,4,1,Yes,B05,Finish Supervised Learning Track in Datacamp,3,5,Yes,Pushed my limit,4,4
+7/1/2026,Wednesday,8,4,2,No,,Datacamp 1.5k XP,3,4,Yes,Exceeded because I find it fulfilling,4,4
+7/1/2026,Wednesday,8,4,3,No,,Reading time 15-20 pages,3,5,Yes,Enjoying,4,4
+7/1/2026,Wednesday,8,4,4,No,,Limited social media usage,3,4,Yes,Less than an hour of use,4,4
+8/1/2026,Thursday,9,4,1,No,,Join TIP NSTP activity,3,5,Yes,For campus missionary,4,5
+8/1/2026,Thursday,9,4,2,No,,Continue devotion time,3,4,Yes,Long time of commitment indeed,4,5
+8/1/2026,Thursday,9,4,3,No,,Continue reading Atomic Habits,3,4,No,Did not have time,4,5
+8/1/2026,Thursday,9,4,4,Yes,B10,Finalize Linked-In account and connect,3,5,Yes,Engaged well,4,5
+9/1/2026,Friday,10,4,1,No,,Prepare nutritious breakfast,3,5,Yes,Gave my best to eat salad,5,5
+9/1/2026,Friday,10,4,2,No,,Make 5 hours of academic productivity,4,5,Yes,Got productive,5,5
+9/1/2026,Friday,10,4,3,No,,Reading habit,3,5,Yes,Continued the great book,5,5
+9/1/2026,Friday,10,4,4,No,,Take a walk around UST,3,4,Yes,With brother to breathe,5,5
+10/1/2026,Saturday,11,4,1,No,,"No Facebook, Instagram more than 30 minutes",3,4,Yes,Made it,4,4
+10/1/2026,Saturday,11,4,2,No,,Help decor for Thanksgiving party,3,4,Yes,Went there early and helped,4,4
+10/1/2026,Saturday,11,4,3,No,,Prepare for presentation,4,4,Yes,Practiced well for a fun competition,4,4
+10/1/2026,Saturday,11,4,4,No,,Join Thanksgiving Activity U-Belt,4,4,Yes,New Year Celebration at Church was attended,4,4

@@ -1,0 +1,22 @@
+date,day_of_week,planning_streak,phase,task_number,is_backlog,backlog_id,task_description,expected_difficulty,expected_motivation,complete_or_not,reason_task_outcome,mood_before,mood_after
+14/12/2025,Sunday,14,3,1,No,,UP long walk,4,5,Yes,Needed air to breathe,4,4
+14/12/2025,Sunday,14,3,2,No,,Thesis research,3,4,Yes,Researched needed info for Thesis for midterms,4,4
+14/12/2025,Sunday,14,3,3,No,,Pass data requirements for DS,3,4,Yes,Passed well,4,4
+15/12/2025,Monday,15,3,1,No,,Finalize input and pay for application,3,4,Yes,"After finalizing the data input, I was tasked to pay for it",2,3
+15/12/2025,Monday,15,3,2,No,,Review Datacamp Statistics topic,3,4,Yes,I needed for my midterm exam tomorrow,2,3
+15/12/2025,Monday,15,3,3,No,,Follow social media restriction ,3,4,Yes,Avoided using phone much for productivity,2,3
+16/12/2025,Tuesday,16,3,1,No,,Social media ban until 5 pm,3,4,Yes,I stayed away from my phone,3,3
+16/12/2025,Tuesday,16,3,2,No,,Datacamp 3k XP,4,4,No,Only 1.5k was done,3,3
+16/12/2025,Tuesday,16,3,3,No,,Thesis finalization meet,3,4,No,We did not meet since. Continued to focus on my part,3,3
+17/12/2025,Wednesday,17,3,1,No,,Focus on salad and cook for your own,4,5,Yes,Ate salad for health,3,5
+17/12/2025,Wednesday,17,3,2,No,,Acad discipline consistency,3,4,Yes,Disciplined enough,3,5
+17/12/2025,Wednesday,17,3,3,No,,Journal and devotion time,3,4,Yes,Not skipping journaling,3,5
+18/12/2025,Thursday,18,3,1,No,,Meet Campus Area family,2,3,Yes,Met area family before the break,3,4
+18/12/2025,Thursday,18,3,2,No,,Check ride schedule,3,4,Yes,Checked if there are any available,3,4
+18/12/2025,Thursday,18,3,3,No,,Datacamp  Finish 1 whole part,3,4,No,Did not have time,3,4
+19/12/2025,Friday,19,3,1,Yes,B08,Wake up at 8am for 15 days  in a month,4,4,Yes,Promised myself to do the goal,4,5
+19/12/2025,Friday,19,3,2,No,,Attend Youth Summit Day 1,2,5,Yes,Needed summit attendance,4,5
+19/12/2025,Friday,19,3,3,No,,Wholesome talk with KKB’s,3,4,Yes,Nothing beats KKB talks,4,5
+20/12/2025,Saturday,20,3,1,No,,Attend Youth Summit Day 2,2,5,Yes,Final summit that didn't disappoint,4,5
+20/12/2025,Saturday,20,3,2,No,,Check reservation for going back to province,4,3,Yes,Did recheck again to be able to go home,4,5
+20/12/2025,Saturday,20,3,3,Yes,B18,30-day journaling accomplishment ,5,4,Yes,I've consistently done my journal,4,5
