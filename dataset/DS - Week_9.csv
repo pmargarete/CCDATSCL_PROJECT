@@ -1,0 +1,29 @@
+date,day_of_week,planning_streak,phase,task_number,is_backlog,backlog_id,task_description,expected_difficulty,expected_motivation,complete_or_not,reason_task_outcome,mood_before,mood_after
+18/01/2026,Sunday,19,4,1,No,,Attend Sunday Service,3,4,Yes,Catching up with people and rest,5,5
+18/01/2026,Sunday,19,4,2,No,,Lifegroup Meet,3,4,Yes,Opening up recent agendas in life,5,5
+18/01/2026,Sunday,19,4,3,No,,Annotation for additional,3,4,Yes,Thesis progress,5,5
+18/01/2026,Sunday,19,4,4,No,,Better LinkedIn profile update,4,5,Yes,Polishing for better wall,5,5
+19/01/2026,Monday,20,4,1,No,,Prepare for Devotion Night and SCOM Meet,3,5,Yes,Lead the prayer night,4,4
+19/01/2026,Monday,20,4,2,No,,Continuous labeling for Thesis,3,4,Yes,For training,4,4
+19/01/2026,Monday,20,4,3,No,,Early dinner outside and buying errand,3,4,Yes,Space to breathe outside,4,4
+19/01/2026,Monday,20,4,4,No,,Start polishing resume,4,5,Yes,Overleaf write ups,4,4
+20/01/2026,Tuesday,21,4,1,No,,Datacamp progress,3,4,Yes,To continue the scholarship,4,3
+20/01/2026,Tuesday,21,4,2,No,,Finalization of ML hypothesis,3,4,Yes,Edited the hypothesis,4,3
+20/01/2026,Tuesday,21,4,3,No,,Thesis talk for Ethics,3,5,Yes,Ethical considerations,4,3
+20/01/2026,Tuesday,21,4,4,No,,Annotation and academic progress,4,4,Yes,More for academic-related works,4,3
+21/01/2026,Wednesday,22,4,1,No,,Consultation Thesis,4,4,Yes,Talked with Doc,3,4
+21/01/2026,Wednesday,22,4,2,No,,CCTV camera lookup at campus,3,4,Yes,For dataset within school,3,4
+21/01/2026,Wednesday,22,4,3,No,,Reading book,3,4,Yes,Continued the habit,3,4
+21/01/2026,Wednesday,22,4,4,No,,Datacamp progress,3,4,Yes,Streak and learning ongoing,3,4
+22/01/2026,Thursday,23,4,1,No,,Clean room and tidy up,3,5,Yes,For a cleaner space,4,3
+22/01/2026,Thursday,23,4,2,No,,Meet Blessie,3,4,Yes,Catching-up younger friends for campus ministry,4,3
+22/01/2026,Thursday,23,4,3,No,,Datacamp 2k XP,4,5,Yes,Datacamp progressive state,4,3
+22/01/2026,Thursday,23,4,4,No,,Continue annotation,3,4,Yes,Ongoing dataset collection,4,3
+23/01/2026,Friday,24,4,1,No,,Better version of resume,4,5,Yes,Improvement,4,3
+23/01/2026,Friday,24,4,2,No,,Annotate two for Thesis,3,4,Yes,More annotations,4,3
+23/01/2026,Friday,24,4,3,No,,Thesis meet and update,3,4,Yes,Group talk,4,3
+23/01/2026,Friday,24,4,4,No,,Reading and journaling,3,4,No,Skill improvement and consistency,4,3
+24/01/2026,Saturday,25,4,1,No,,Try new restaurant for dinner,3,4,Yes,Tried good value ,3,4
+24/01/2026,Saturday,25,4,2,No,,Annotate for Thesis,3,4,Yes,For better result of Thesis,3,4
+24/01/2026,Saturday,25,4,3,No,,Datacamp progress and devotion notes,3,4,Yes,Academic and writing notes,3,4
+24/01/2026,Saturday,25,4,4,No,,Eat healthy food,3,4,Yes,Better living,3,4

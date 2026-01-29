@@ -1,0 +1,29 @@
+date,day_of_week,planning_streak,phase,task_number,is_backlog,backlog_id,task_description,expected_difficulty,expected_motivation,complete_or_not,reason_task_outcome,mood_before,mood_after
+11/01/2026,Sunday,12,4,1,No,,Go back to journaling and writing,4,5,No,Did not have much time,5,5
+11/01/2026,Sunday,12,4,2,No,,Sunday Service minister,4,5,Yes,Prepared for good,5,5
+11/01/2026,Sunday,12,4,3,No,,Join SCOM area meeting,4,5,Yes,Catch up after the service,5,5
+11/01/2026,Sunday,12,4,4,No,,Finish 1 chapter reading habit,3,5,No,Not done,5,5
+12/01/2026,Monday,13,4,1,No,,Thesis progress,4,5,Yes,Went back to be hardworking,4,4
+12/01/2026,Monday,13,4,2,No,,Prayer and Fast and Devotion,4,5,Yes,Determined to do,4,4
+12/01/2026,Monday,13,4,3,No,,Join school ministry call,3,4,Yes,Plan that should not be missed,4,4
+12/01/2026,Monday,13,4,4,No,,Five hours of productivity,4,5,Yes,"Alloted, efforted",4,4
+13/01/2026,Tuesday,14,4,1,No,,Early wake up and vegetables intake,3,4,No,A little late,4,3
+13/01/2026,Tuesday,14,4,2,No,,Tidy up and do journaling,3,4,Yes,Did it,4,3
+13/01/2026,Tuesday,14,4,3,No,,Academic commitment to start,4,4,Yes,Started,4,3
+13/01/2026,Tuesday,14,4,4,No,,Read Atomic Habits,4,4,No,Did not read much,4,3
+14/01/2026,Wednesday,15,4,1,No,,Finish academic requirement,5,5,Yes,This was hard but there was motivation,4,4
+14/01/2026,Wednesday,15,4,2,No,,Laundry and cleaning,3,4,Yes,Finished well,4,4
+14/01/2026,Wednesday,15,4,3,No,,"Productivity - reading, Datacamp",3,4,Yes,Got to do it,4,4
+14/01/2026,Wednesday,15,4,4,No,,Social Media Limit,3,4,No,"More than an hour each, which was bad for my standard",4,4
+15/01/2026,Thursday,16,4,1,No,,Meet with Sir Mico,4,5,Yes,Helped with thesis,4,4
+15/01/2026,Thursday,16,4,2,No,,Reading,3,4,Yes,Went back to reading again,4,4
+15/01/2026,Thursday,16,4,3,No,,Creation of evaluation form,4,5,Yes,A little challenging but there was basis,4,4
+15/01/2026,Thursday,16,4,4,No,,Family matter research ,3,4,Yes,About business matter,4,4
+16/01/2026,Friday,17,4,1,No,,Meet with KKB and Prayer Walk,3,4,Yes,A needed catch-up,3,4
+16/01/2026,Friday,17,4,2,No,,ML arrangement,3,4,Yes,For Data Science,3,4
+16/01/2026,Friday,17,4,3,No,,Datacamp and Journaling,3,5,Yes,Continue streak and skill,3,4
+16/01/2026,Friday,17,4,4,No,,Phone usage limit,4,5,Yes,To avoid much social media,3,4
+17/01/2026,Saturday,18,4,1,Yes,B14,Complete uploading college projects in GitHub,4,5,Yes,For productivity and internship,4,4
+17/01/2026,Saturday,18,4,2,No,,Posting of school ministry,3,4,Yes,Intended posting as scheduled,4,4
+17/01/2026,Saturday,18,4,3,No,,Annotation,3,4,Yes,Needed for Thesis,4,4
+17/01/2026,Saturday,18,4,4,No,,Journaling and devotion time,4,5,Yes,Continuing the discipline,4,4
