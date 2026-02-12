@@ -22,9 +22,10 @@ date,day_of_week,planning_streak,phase,task_number,is_backlog,backlog_id,task_de
 23/01/2026,Friday,24,4,1,No,,Better version of resume,4,5,Yes,Improvement,4,3
 23/01/2026,Friday,24,4,2,No,,Annotate two for Thesis,3,4,Yes,More annotations,4,3
 23/01/2026,Friday,24,4,3,No,,Thesis meet and update,3,4,Yes,Group talk,4,3
-23/01/2026,Friday,24,4,4,No,,Create a ML-related personal project that's not too simple,5,5,No,Challenging,4,3
+23/01/2026,Friday,24,4,4,Yes,B11,Create a ML-related personal project that's not too simple,5,5,No,Challenging,4,3
 24/01/2026,Saturday,25,4,1,No,,Try new restaurant for dinner,3,4,Yes,Tried good value ,3,4
 24/01/2026,Saturday,25,4,2,No,,Annotate for Thesis,3,4,Yes,For better result of Thesis,3,4
 24/01/2026,Saturday,25,4,3,No,,Datacamp progress and devotion notes,3,4,Yes,Academic and writing notes,3,4
 
 24/01/2026,Saturday,25,4,4,No,,Eat healthy food,3,4,Yes,Better living,3,4
+
